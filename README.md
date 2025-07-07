@@ -1,5 +1,5 @@
 # Merhaba, ZeynepNurKarabay
-Çankaya Üniversitesi'nde 🎓 Tam Burslu İngilizce Matematik  [cite: 7, 9] [cite_start]ve İngilizce Yazılım Mühendisliği çift anadal programlarına devam etmekte olan öğrenciyim. Özellikle yazılım tasarımları 💡, veri analizi 📊 ve matematiksel modelleme konularına ilgi duyuyorum.
+Çankaya Üniversitesi'nde 🎓 Tam Burslu İngilizce Matematik ve İngilizce Yazılım Mühendisliği çift anadal programlarına devam etmekte olan öğrenciyim. Özellikle yazılım tasarımları 💡, veri analizi 📊 ve matematiksel modelleme konularına ilgi duyuyorum.
 
 ---
 
@@ -31,7 +31,7 @@ Akademik ve kişisel gelişimimde önemli yer tutan projelerim:
 ### 🌐 Benimle İletişime Geçin
 
 **E-posta:** karabayzeynepnur@gmail.com 
-* **LinkedIn:** [www.linkedin.com/in/zeynep-nur-karabay-b5303a2b6] 
+**LinkedIn:** [www.linkedin.com/in/zeynep-nur-karabay-b5303a2b6] 
 * **Konum:** Ankara, Türkiye 
 
 ---
