@@ -13,7 +13,7 @@ Java, Python, MATLAB ve C++ başta olmak üzere çeşitli programlama dilleriyle
 
 Akademik ve kişisel gelişimimde önemli yer tutan projelerim:
 
-* **Mathematical Foundations of Supervised Learning Methods and Applications for Disease Modelling** (Lisans Bitirme Projesi – 2025)
+* **Mathematical Foundations of Supervised Learning Methods and Applications for Disease Modelling** (Lisans Bitirme Projesi – 2025) [https://math.cankaya.edu.tr/wp-content/uploads/sites/3/2025/06/ZeynepNurKarabay_Math490.pdf]
 * **Makine Öğrenmesi Yöntemleri Yoluyla Meme Kanseri Teşhisi Uygulaması** (Ankara Matematik Günleri Öğrenci Konuşmacı – 2025)
 
 ---
