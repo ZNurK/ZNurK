@@ -5,7 +5,7 @@
 
 ### 🚀 Gelişim Alanlarım ve Yeteneklerim
 
-Java, Python, MATLAB ve C++ başta olmak üzere çeşitli programlama dilleriyle çalışmayı seviyorum. [cite_start]Yazılım Mimarisi, Nesneye Dayalı Programlama ve Veri Modelleme gibi teknik becerilerimle karmaşık sorunlara çözüm üretmekten keyif alıyorum.
+Java, Python, MATLAB ve C++ başta olmak üzere çeşitli programlama dilleriyle çalışmayı seviyorum. Yazılım Mimarisi, Nesneye Dayalı Programlama ve Veri Modelleme gibi teknik becerilerimle karmaşık sorunlara çözüm üretmekten keyif alıyorum.
 
 ---
 
@@ -13,25 +13,25 @@ Java, Python, MATLAB ve C++ başta olmak üzere çeşitli programlama dilleriyle
 
 Akademik ve kişisel gelişimimde önemli yer tutan projelerim:
 
-***Mathematical Foundations of Supervised Learning Methods and Applications for Disease Modelling** [cite: 21] (Lisans Bitirme Projesi – 2025)
-**Makine Öğrenmesi Yöntemleri Yoluyla Meme Kanseri Teşhisi Uygulaması** [cite: 22] (Ankara Matematik Günleri Öğrenci Konuşmacı – 2025)
+***Mathematical Foundations of Supervised Learning Methods and Applications for Disease Modelling** (Lisans Bitirme Projesi – 2025)
+**Makine Öğrenmesi Yöntemleri Yoluyla Meme Kanseri Teşhisi Uygulaması**  (Ankara Matematik Günleri Öğrenci Konuşmacı – 2025)
 
 
 ---
 
 ### 🛠️ Teknik Becerilerim
 
-**Programlama Dilleri:** Java, Python, MATLAB, C, C++, Julia, LaTeX [cite: 24]
+**Programlama Dilleri:** Java, Python, MATLAB, C, C++, Julia, LaTeX 
 ***Yazılım & Veri:** Yazılım Tasarımı, Veri Analizi, Bilimsel Hesaplamalar, Matematiksel Modelleme, Nesneye Dayalı Programlama, Yazılım Mimarisi.
-* [cite_start]**Diagramlar:** Kullanım Senaryosu Diyagramı, Etkinlik Diyagramı, Sıra Diyagramı, Veri Modeli, Sınıf Diyagramı, Nesne Diyagramı, Durum Diyagramı
+**Diagramlar:** Kullanım Senaryosu Diyagramı, Etkinlik Diyagramı, Sıra Diyagramı, Veri Modeli, Sınıf Diyagramı, Nesne Diyagramı, Durum Diyagramı
 ***Sertifikalar:** Google Dijital Pazarlama, Başlangıç İstatistiği Veri Analizi 
 
 ---
 
 ### 🌐 Benimle İletişime Geçin
 
-***E-posta:*** karabayzeynepnur@gmail.com 
-***LinkedIn:*** [www.linkedin.com/in/zeynep-nur-karabay-b5303a2b6] 
-***Konum:*** Ankara, Türkiye 
+**E-posta:** karabayzeynepnur@gmail.com 
+* **LinkedIn:** [www.linkedin.com/in/zeynep-nur-karabay-b5303a2b6] 
+* **Konum:** Ankara, Türkiye 
 
 ---
