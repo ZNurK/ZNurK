@@ -1,4 +1,4 @@
-# Merhaba, Ben ZeynepNurKarabay 👋
+# Merhaba, Ben Zeynep Nur Karabay 👋
 Çankaya Üniversitesi'nde 🎓 Tam Burslu İngilizce Matematik ve İngilizce Yazılım Mühendisliği çift anadal programlarına devam etmekte olan öğrenciyim. Özellikle yazılım tasarımları 💡, veri analizi 📊 ve matematiksel modelleme konularına ilgi duyuyorum.
 
 ---
