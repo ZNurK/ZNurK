@@ -22,8 +22,8 @@ Akademik ve kişisel gelişimimde önemli yer tutan projelerim:
 ### 🛠️ Teknik Becerilerim
 
 **Programlama Dilleri:** Java, Python, MATLAB, C, C++, Julia, LaTeX 
-**Yazılım & Veri:** Yazılım Tasarımı, Veri Analizi, Bilimsel Hesaplamalar, Matematiksel Modelleme, Nesneye Dayalı Programlama, Yazılım Mimarisi.
-**Diagramlar:** Kullanım Senaryosu Diyagramı, Etkinlik Diyagramı, Sıra Diyagramı, Veri Modeli, Sınıf Diyagramı, Nesne Diyagramı, Durum Diyagramı
+*Yazılım & Veri:* Yazılım Tasarımı, Veri Analizi, Bilimsel Hesaplamalar, Matematiksel Modelleme, Nesneye Dayalı Programlama, Yazılım Mimarisi.
+*Diagramlar:* Kullanım Senaryosu Diyagramı, Etkinlik Diyagramı, Sıra Diyagramı, Veri Modeli, Sınıf Diyagramı, Nesne Diyagramı, Durum Diyagramı
 **Sertifikalar:** Google Dijital Pazarlama, Başlangıç İstatistiği Veri Analizi 
 
 ---
