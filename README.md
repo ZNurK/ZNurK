@@ -30,7 +30,7 @@ Akademik ve kişisel gelişimimde önemli yer tutan projelerim:
 
 ### 🌐 Benimle İletişime Geçin
 
-***E-posta:*** karabayzeynepnur@gmail.com [cite: 5]
+***E-posta:*** karabayzeynepnur@gmail.com 
 ***LinkedIn:*** [www.linkedin.com/in/zeynep-nur-karabay-b5303a2b6] 
 ***Konum:*** Ankara, Türkiye 
 
