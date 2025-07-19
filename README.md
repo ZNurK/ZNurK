@@ -31,4 +31,4 @@
 
 ---
 
-*Thanks for visiting my profile! Feel free to reach out.*
+*Thanks for visiting my profile! .*
